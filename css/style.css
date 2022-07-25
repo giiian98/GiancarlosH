@@ -585,6 +585,26 @@ button {
   color: #36a25e;
 }
 
+.logo_c-shart img{
+height: 85px;
+}
+
+.logo_sql img{
+  height: 85px;
+  }
+
+.logo_pl img{
+  height: 88px;
+}
+
+.logo_oracle img{
+  height: 87px;
+}
+
+.logo__linux img{
+  height: 85px;
+}
+
 .logo__jquery i {
   display: block;
   margin-top: -20px;

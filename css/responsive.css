@@ -210,6 +210,26 @@
     margin-top: -5px;
     margin-bottom: -32px;
   }
+
+  .logo_c-shart img{
+    height: 60px;
+    }
+    
+    .logo_pl img{
+      height: 60px;
+    }
+    
+    .logo_oracle img{
+      height: 60px;
+    }
+    
+    .logo__linux img{
+      height: 54px;
+    }
+
+    .logo_sql img{
+      height: 57px;
+    }
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
